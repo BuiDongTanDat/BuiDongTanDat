@@ -20,63 +20,119 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-I’m a final-year Software Engineering student who focuses on building **robust backend systems and AI-powered services**.
+I’m a final-year Software Engineering student with a strong focus on **backend engineering and AI-powered systems**.
 
-Instead of just creating APIs, I’m interested in how systems scale, communicate, and evolve — especially when combining **backend engineering with AI (LLMs, RAG, ML models)**.
+I enjoy designing systems that are not only functional but also scalable and maintainable — especially when integrating **LLMs, RAG pipelines, and machine learning models** into real-world applications.
 
-- 🔧 Backend-first mindset (Node.js, FastAPI)
-- 🤖 Hands-on with AI integration (LangChain, RAG, XGBoost)
-- 🗄️ Strong database foundation (PostgreSQL, PGVector)
-- 🚀 Experience with Dockerized microservices
-- 📈 Always improving system design & architecture thinking
+- 🔧 Backend development with Node.js & FastAPI  
+- 🤖 AI integration (LangChain, RAG, XGBoost)  
+- 🗄️ Database design (PostgreSQL, PGVector)  
+- 🐳 Dockerized systems & microservices mindset  
+- 🚀 Continuous learning in system design & architecture  
 
 ---
 
-### 🛠️ Languages & Tools
+## 🚀 Tech Stack & Tools
 
-<div align="center">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45"/>
-
+### 💻 Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
 </div>
 
 ---
 
-### 🚀 What I’ve Built
+### ⚙️ Frameworks & Backend
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40"/>
+</div>
 
-🔹 **AI Task & Project Management System**  
-- Built an AI service that transforms prompts into structured tasks  
-- Implemented RAG pipeline with PostgreSQL + PGVector  
-- Developed chatbot for document-based Q&A  
-- Integrated ML model (XGBoost) for story point estimation  
+---
 
-🔹 **Intelligent CRM Backend System**  
-- Designed 20+ RESTful APIs  
-- JWT authentication + RBAC authorization  
-- Integrated live streaming with FFmpeg  
-- Containerized system using Docker Compose  
+### 🗄️ Databases
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/>
+</div>
 
-🔹 **IoT GPS Tracking System**  
+---
+
+### 🤖 AI / ML
+<div>
+  <img src="https://img.shields.io/badge/LangChain-black"/>
+  <img src="https://img.shields.io/badge/RAG-orange"/>
+  <img src="https://img.shields.io/badge/XGBoost-red"/>
+</div>
+
+---
+
+### 🛠️ Tools & DevOps
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40"/>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 AI-Integrated Project & Task Management System
+🔗 https://github.com/BuiDongTanDat/Apply_AI_in_projects_and_tasks_management  
+
+- AI ticket generator using LangChain + FastAPI  
+- RAG pipeline with PostgreSQL + PGVector  
+- Document-based chatbot (PDF QA)  
+- Story point estimation using XGBoost  
+- Dockerized microservices  
+
+---
+
+### 🛒 Intelligent CRM System for Cosmetics Retail
+🔗 https://github.com/BuiDongTanDat/crm-system-cosmetics-store-b2c  
+
+- 20+ RESTful APIs (Node.js + Express)  
+- JWT Authentication + RBAC  
+- FFmpeg live streaming integration  
+- Docker Compose deployment  
+
+---
+
+### 📍 GPS Tracking System
+🔗 https://github.com/BuiDongTanDat/IoT_GPS_Tracking_Devices  
+
 - Real-time tracking with ESP32 + Firebase  
-- Geofencing & alert logic  
-- Cross-platform (mobile + web)  
+- Geofencing & alert system  
+- Flutter Web deployment  
 
-### 📫 Contact
+---
+
+### 📚 EStudy - English Learning App
+🔗 https://github.com/BuiDongTanDat/EStudy_English_Learning_App  
+
+- Flashcards, quizzes, leaderboard  
+- Firebase real-time sync  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BuiDongTanDat&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BuiDongTanDat&theme=dark&background=000000"/>
+</p>
+
+---
+
+## 📫 Contact
 
 - 📧 Email: **buidongtandat@gmail.com**
 - 💻 GitHub: https://github.com/BuiDongTanDat
