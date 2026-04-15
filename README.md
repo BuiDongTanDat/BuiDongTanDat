@@ -46,19 +46,19 @@ I enjoy designing systems that are not only functional but also scalable and mai
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
 </div>
 
+#
 
 ### ⚙️ Frameworks & Backend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
 </div>
 
-
+#
 
 ### 🗄️ Databases
 <div>
@@ -68,6 +68,7 @@ I enjoy designing systems that are not only functional but also scalable and mai
      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40"/>
 </div>
 
+#
 
 ### 🤖 AI / ML
 <div>
@@ -79,18 +80,20 @@ I enjoy designing systems that are not only functional but also scalable and mai
   
 </div>
 
+#
+
 ### 🎨 Frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40"/>
+  
 </div>
 
----
+#
 
 ### 🛠️ Tools & DevOps
 <div>
