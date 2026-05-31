@@ -107,7 +107,7 @@ I enjoy designing systems that are not only functional but also scalable and mai
 ## 📌 Featured Projects
 
 ### 🧠 AI-Integrated Project & Task Management System
-🔗 Repository: [TASKEE.CODES](https://github.com/BuiDongTanDatApply_AI_in_projects_and_tasks_management)
+🔗 Repository: [TASKEE.CODES](https://github.com/BuiDongTanDat/Apply_AI_in_projects_and_tasks_management)
 
 - AI ticket generator using LangChain + FastAPI  
 - RAG pipeline with PostgreSQL + PGVector  
