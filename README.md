@@ -90,7 +90,7 @@ I enjoy designing systems that are not only functional but also scalable and mai
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="40"/>
 </div>
 
 #
