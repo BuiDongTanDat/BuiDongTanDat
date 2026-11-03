@@ -108,7 +108,9 @@ I enjoy designing systems that are not only functional but also scalable and mai
 
 ### 🏠 Proptech - Real Estate Management Platform
 🔗 Repository: [Proptech](https://github.com/BuiDongTanDat/Proptech)
+
 🔗 Frontend (Vercel): **[https://ahpmfrontend.vercel.app](https://ahpmfrontend.vercel.app/)**
+
 🔗 Video Demo: **[Youtube_Demo_Video](https://youtu.be/QEuLngxevEM)**
 
 - User Management: Employee account management
@@ -121,6 +123,7 @@ I enjoy designing systems that are not only functional but also scalable and mai
 
 ### 🧠 AI-Integrated Project & Task Management System
 🔗 Repository: [TASKEE.CODES](https://github.com/BuiDongTanDat/Apply_AI_in_projects_and_tasks_management)
+
 🔗 Video demo: [Youtube](https://youtu.be/1fqZCE97Y44)
 
 - AI ticket generator using LangChain + FastAPI  
@@ -132,6 +135,7 @@ I enjoy designing systems that are not only functional but also scalable and mai
 
 ### 🛒 Intelligent CRM System for Cosmetics Retail
 🔗 Repository: [CRM B2C](https://github.com/BuiDongTanDat/crm-system-cosmetics-store-b2c) 
+
 🔗 Video demo: [Youtube](https://youtu.be/jZ8GZC38_hw)
 
 - 20+ RESTful APIs (Node.js + Express)  
@@ -151,6 +155,7 @@ I enjoy designing systems that are not only functional but also scalable and mai
 
 ### 📚 EStudy - English Learning App
 🔗 Repository: [EStudy](https://github.com/BuiDongTanDat/EStudy_English_Learning_App)  
+
 🔗 Video demo: [Youtube](https://youtu.be/hlWgUQCeroY)
 - Flashcards, quizzes, leaderboard  
 - Firebase real-time sync  
